@@ -1,7 +1,14 @@
 ﻿<Properties StartupConfiguration="{5172B803-DF8F-7123-EC77-E41410F7AE58}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WASD_rb.cs">
     <Files>
-      <File FileName="Assets/Scripts/WASD_rb.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/WASD_rb.cs" Line="73" Column="6" />
+      <File FileName="Assets/Scripts/WASD_tran.cs" Line="58" Column="27" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="71" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,11 +24,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b01911ec-220c-44a1-b39f-edfc686c4c0d" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ea7e0af8-d702-40eb-b428-d944ef3a222c" />
 </Properties>
